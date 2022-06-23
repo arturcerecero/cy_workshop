@@ -1,0 +1,17 @@
+{
+  "name": "workshop",
+  "version": "1.0.0",
+  "description": "cypress workshop re-p",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "npm": "^8.13.0"
+  },
+  "devDependencies": {
+    "cypress": "^10.2.0"
+  }
+}
